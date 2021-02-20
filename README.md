@@ -11,6 +11,7 @@
 ## 📌 Social Media Handles:)
 [<img src="https://freepngimg.com/thumb/twitter/8-2-twitter-png-hd.png" width=200px height=65px aling="left" />](https://twitter.com/VivekRa75595178)<br/>
 [<img src="https://1000logos.net/wp-content/uploads/2016/11/Facebook-logo.png" width=200px height=65px aling="left" />](https://www.facebook.com/?react=AQDjmCK0ItOdQDE384A)<br/>
+[<img src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo-6.png" width=200px height=70px align="left" />](https://www.instagram.com)<br/>
 
 ## 📌 My Achievement's <img src="https://media.giphy.com/media/ZYWcXnDYHLSJYJ32Y8/giphy.gif" width='40'>
 
@@ -24,19 +25,10 @@
 ### 👉 [Online Skill Enhancement Program On Linux Basic And Github From IIT-B](https://drive.google.com/file/d/1BRierPrKwhrYrmvH37POb2bmD2qFRQa4/view?usp=sharing)
 
 
+## 📌 Here are some ideas to get you started:
 
-
-<!--
-**Vivek745-droid/Vivek745-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on : Improving my programming skills.
+- 🌱 I’m currently learning : Databases for Developers-Foundations
+- 💬 Ask me about : Problem statements & Output based qus , Happy To Help 😊
+- 📫 How to reach me: vivekrj307@gmail.com
+- 📖 [Resume](https://drive.google.com/file/d/1J7fkp4cLTAmID2nvyWHKz_g405hvt8_K/view?usp=sharing)
