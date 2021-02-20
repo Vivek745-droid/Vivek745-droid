@@ -1,17 +1,16 @@
 #  Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> and Welcome to My Github page <br/>
-
+![developer_id_fun](https://media.giphy.com/media/UcK7JalnjCz0k/giphy.gif)
 ## 📌 About Myself <img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='70' >
 
 ### > **Hiii There! I am Software Developer as a Freshers.**
-### > **As I have just started my career, i do't have practical achievements, but
-        i really want to explore and experince my potential by delivering the best 
-		servies to the company.**
-### > ***Also in my free time I LOve to learn and write about latest technology and blogging 
-         and my interest and hobbies.[ranjanvivek.online](https://www.facebook.com/ranjanvivek.online)		
+
+### > **As I have just started my career, i do't have practical achievements, but i really want to explore and experience my potential by delivering the best services to the company.**
+
+### > **Also in my free time I Love to learn and write about latest technology and blogging [www.facebook.com/ranjanvivek.online](https://www.facebook.com/ranjanvivek.online)         and my interest and hobbies.**		
 
 ## 📌 Social Media Handles:)
 [<img src="https://freepngimg.com/thumb/twitter/8-2-twitter-png-hd.png" width=200px height=65px aling="left" />](https://twitter.com/VivekRa75595178)<br/>
-[<img src="C:\Users\VP\Downloads\fb logo" width=200px height=65px aling="left" />](https://www.facebook.com/?react=AQDjmCK0ItOdQDE384A)<br/>
+[<img src="C:\Users\VP\Downloads\fb logo.png" width=200px height=65px aling="left" />](https://www.facebook.com/?react=AQDjmCK0ItOdQDE384A)<br/>
 
 ## 📌 My Achievement's <img src="https://media.giphy.com/media/ZYWcXnDYHLSJYJ32Y8/giphy.gif" width='40'>
 
