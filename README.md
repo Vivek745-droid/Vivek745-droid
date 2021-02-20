@@ -10,11 +10,12 @@
 
 ## 📌 Social Media Handles:)
 [<img src="https://freepngimg.com/thumb/twitter/8-2-twitter-png-hd.png" width=200px height=65px aling="left" />](https://twitter.com/VivekRa75595178)<br/>
+
 [<img src="https://1000logos.net/wp-content/uploads/2016/11/Facebook-logo.png" width=200px height=65px aling="left" />](https://www.facebook.com/?react=AQDjmCK0ItOdQDE384A)<br/>
+
 [<img src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo-6.png" width=200px height=70px align="left" />](https://www.instagram.com)<br/>
 
 ## 📌 My Achievement's <img src="https://media.giphy.com/media/ZYWcXnDYHLSJYJ32Y8/giphy.gif" width='40'>
-
 ### 👉 [Getting started with Python, from University Of MICHIGAN](https://drive.google.com/file/d/137xSTF8opHHRqq9Vi_AaEkQk5eef8RLg/view?usp=sharing)
 ### 👉 [Python with data structure](https://drive.google.com/file/d/1KWcymu7vlgIVDILaZlSypst5uPlnnSxx/view?usp=sharing)
 ### 👉 [Using database with Python](https://drive.google.com/file/d/1Thx79Wfy0SbrmL109yIVrU03TbURG0XH/view?usp=sharing)
