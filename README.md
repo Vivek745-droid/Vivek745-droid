@@ -2,9 +2,9 @@
 ![developer_id_fun](https://media.giphy.com/media/UcK7JalnjCz0k/giphy.gif)
 ## 📌 About Myself <img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='70' >
 
-### > **Hiii There! I am Software Developer as a Freshers.**
+### > **Hiii There! I am working as a Java springboot developer in Tata Consultancy Services**
 
-### > **As I have just started my career, i do't have practical achievements, but i really want to explore and experience my potential by delivering the best services to the company.**
+### > **Having 2 years of experince in Java springboot framework,  but i really want to explore and experience more on it so that it will potential by delivering the best services to the company.**
 
 ### > **Also in my free time I Love to learn and write about latest technology and blogging [www.facebook.com/ranjanvivek.online](https://www.facebook.com/ranjanvivek.online)         and my interest and hobbies.**		
 
@@ -28,7 +28,7 @@
 
 ## 📌 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on : Improving my programming skills.
+- 🔭 I’m currently working on : Java springboot developer.
 - 🌱 I’m currently learning : Databases for Developers-Foundations
 - 💬 Ask me about : Problem statements & Output based qus , Happy To Help 😊
 - 📫 How to reach me: vivekrj307@gmail.com
